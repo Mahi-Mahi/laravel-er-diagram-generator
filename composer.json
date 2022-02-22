@@ -16,9 +16,9 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.4",
         "doctrine/dbal": "~2.3",
-        "phpdocumentor/graphviz": "^1.0",
+        "phpdocumentor/graphviz": "^2.0",
         "nikic/php-parser":"^2.0|^3.0|^4.0"
     },
     "require-dev": {
